@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jyotirmoy Mahato 👋</h1>
 
-<h3 align="center">Data Analyst · ML Engineer · Generative AI Developer</h3>
+<h3 align="center">Data Scientist · Data Analyst · AI/ML practitioner</h3>
 
 <p align="center">
   <a href="mailto:mahatojyotirmoy49@gmail.com">📧 Email</a> &nbsp;|&nbsp;
